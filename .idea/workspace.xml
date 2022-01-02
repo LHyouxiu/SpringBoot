@@ -23,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-3-web" />
   </component>
   <component name="RunManager">
     <configuration name="Springboot03WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -42,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625578478283</updated>
       <workItem from="1625578479717" duration="156000" />
+      <workItem from="1640762665478" duration="55000" />
     </task>
     <servers />
   </component>
